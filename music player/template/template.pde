@@ -7,8 +7,7 @@ import ddf.minim.ugens.*;
 
 //library
 ////Global Variables
-//
-void setup() {}//End setup
+//  {}//End setup
 //
 void draw() {}//End draw
 //
