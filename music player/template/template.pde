@@ -9,7 +9,7 @@ import ddf.minim.ugens.*;
 ////Global Variables
 //  {}//End setup
 //
-void draw() {}//End draw
+void  {}//End draw
 //
 void mousepressed() {} //End mousepresssed
 //
